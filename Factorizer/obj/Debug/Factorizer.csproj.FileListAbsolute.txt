@@ -1,0 +1,8 @@
+D:\NNML\S014-Csharp.NET\repos\Factorizer\bin\Debug\Factorizer.exe.config
+D:\NNML\S014-Csharp.NET\repos\Factorizer\bin\Debug\Factorizer.exe
+D:\NNML\S014-Csharp.NET\repos\Factorizer\bin\Debug\Factorizer.pdb
+D:\NNML\S014-Csharp.NET\repos\Factorizer\obj\Debug\Factorizer.csproj.AssemblyReference.cache
+D:\NNML\S014-Csharp.NET\repos\Factorizer\obj\Debug\Factorizer.csproj.SuggestedBindingRedirects.cache
+D:\NNML\S014-Csharp.NET\repos\Factorizer\obj\Debug\Factorizer.csproj.CoreCompileInputs.cache
+D:\NNML\S014-Csharp.NET\repos\Factorizer\obj\Debug\Factorizer.exe
+D:\NNML\S014-Csharp.NET\repos\Factorizer\obj\Debug\Factorizer.pdb

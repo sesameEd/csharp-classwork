@@ -1,0 +1,8 @@
+D:\NNML\S014-Csharp.NET\repos\HelloWorldSample\bin\Debug\HelloWorldSample.exe.config
+D:\NNML\S014-Csharp.NET\repos\HelloWorldSample\bin\Debug\HelloWorldSample.exe
+D:\NNML\S014-Csharp.NET\repos\HelloWorldSample\bin\Debug\HelloWorldSample.pdb
+D:\NNML\S014-Csharp.NET\repos\HelloWorldSample\obj\Debug\HelloWorldSample.csproj.AssemblyReference.cache
+D:\NNML\S014-Csharp.NET\repos\HelloWorldSample\obj\Debug\HelloWorldSample.csproj.SuggestedBindingRedirects.cache
+D:\NNML\S014-Csharp.NET\repos\HelloWorldSample\obj\Debug\HelloWorldSample.csproj.CoreCompileInputs.cache
+D:\NNML\S014-Csharp.NET\repos\HelloWorldSample\obj\Debug\HelloWorldSample.exe
+D:\NNML\S014-Csharp.NET\repos\HelloWorldSample\obj\Debug\HelloWorldSample.pdb
